@@ -11,5 +11,5 @@
 ![5](https://cdn.discordapp.com/attachments/465020961482342411/709345642585129060/unknown.png)  
 
 - Добавление студента:  
-![6](https://cdn.discordapp.com/attachments/465020961482342411/709346317381533716/unknown.png)  
-![7](https://cdn.discordapp.com/attachments/465020961482342411/709346369260748873/unknown.png)  
+![6](https://cdn.discordapp.com/attachments/465020961482342411/709346978672410674/unknown.png)  
+![7](https://cdn.discordapp.com/attachments/465020961482342411/709347146255695872/unknown.png)  
