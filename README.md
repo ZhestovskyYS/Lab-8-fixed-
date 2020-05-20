@@ -2,14 +2,14 @@
 ## Задание  
   Переделайте компонент для редактирования студентов так, чтобы он содержал два поля для ввода (имени и фамилии).  
 ## Выполнение
-- Доработал компонент и функции, отвечающие за редактирование имени и фамилии студента:  
-![1](https://cdn.discordapp.com/attachments/465020961482342411/709345151545245806/unknown.png)  
-![2](https://cdn.discordapp.com/attachments/465020961482342411/709345343417876560/unknown.png)  
+- Доработал компонент, добавив кнопки справа от каждого построенного элемениа, и функции, отвечающие за редактирование имени и фамилии студента:  
+![1](https://cdn.discordapp.com/attachments/465020961482342411/712656239804416030/unknown.png)  
+![2](https://cdn.discordapp.com/attachments/465020961482342411/712655901609426974/unknown.png)   
+![3](https://cdn.discordapp.com/attachments/465020961482342411/712656133571215420/unknown.png)  
 
-- Удаление студента:  
-![4](https://cdn.discordapp.com/attachments/465020961482342411/709345549848936458/unknown.png)  
-![5](https://cdn.discordapp.com/attachments/465020961482342411/709345642585129060/unknown.png)  
+- Удаление студента:
+До нажатия кнопки Delete:  
+![4](https://cdn.discordapp.com/attachments/465020961482342411/712656389700452433/unknown.png)  
 
-- Добавление студента:  
-![6](https://cdn.discordapp.com/attachments/465020961482342411/709346978672410674/unknown.png)  
-![7](https://cdn.discordapp.com/attachments/465020961482342411/709347146255695872/unknown.png)  
+После:  
+![5](https://cdn.discordapp.com/attachments/465020961482342411/712656451654516786/unknown.png)  
